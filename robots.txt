@@ -1,0 +1,17 @@
+# 8)
+# nope
+# nope
+# nope
+
+
+User-agent: *
+Disallow: /wp/
+Disallow: /ir/
+Disallow: /google-no/
+Disallow: /locateip.php
+Disallow: /get_queries.php
+Disallow: /poll/
+Disallow: /usearch/
+Disallow: /advert/
+Disallow: /comments/
+Disallow: /captcha/
