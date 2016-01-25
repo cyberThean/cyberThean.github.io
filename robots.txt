@@ -15,3 +15,4 @@ Disallow: /usearch/
 Disallow: /advert/
 Disallow: /comments/
 Disallow: /captcha/
+http://https://cyberthean.github.com/sitemap.xml
