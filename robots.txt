@@ -18,4 +18,7 @@ Disallow: /auth/
 Disallow: /comments/
 Disallow: /community/poll/
 Disallow: /captcha/
+Disallow: /wp/
+Disallow: /ir/
+Disallow: /google-no/
 http://https://cyberthean.github.com/sitemap.xml
