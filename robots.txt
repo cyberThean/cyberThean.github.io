@@ -5,16 +5,17 @@
 
 
 User-agent: *
-Disallow: /fonts/
-Disallow: /images/
-Disallow: /javascripts/
-Disallow: /about.html
-Disallow: /tips.html
-Disallow: /lab/
-Disallow: /ustylesheets/
-Disallow: /params.json
-Disallow: /posts.html
-Disallow: /temp.html
-Disallow: /enc.html
-Disallow: /index.html
+Disallow: /wp/
+Disallow: /locations/
+Disallow: /download/
+Disallow: /adv/
+Disallow: /locateip.php
+Disallow: /get_queries.php
+Disallow: /poll/
+Disallow: /usearch/
+Disallow: /advert/
+Disallow: /auth/
+Disallow: /comments/
+Disallow: /community/poll/
+Disallow: /captcha/
 http://https://cyberthean.github.com/sitemap.xml
